@@ -1,0 +1,9 @@
+fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+
+O que vai aparecer é: 1
+                      2
+                      3 
